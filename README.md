@@ -1,2 +1,4 @@
 # catering-website
-my project in university
+Catering Website using html5 -- css -- js -- bootstrap - php logic
+Feature : 
+Dynamic Shopping Cart -- Payment Page by username
